@@ -1,5 +1,32 @@
 body {
-  width: 100%;
+  width: 25%;
   height: 100%;
   margin: 0;
+}
+header{
+  text-align: center;
+}
+header nav{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: aquamarine;
+}
+#featured-property{
+  justify-content: center;
+  padding-left: 200px;
+  padding-right: 200px;
+  width: 800px;
+}
+#details div{
+  float: left;
+  background-color: grey;
+  text-align: center;
+  width: 25%;
+}
+figcaption{
+  font-size: small;
+  text-align: center;
+}
+a{
+  padding: 0px 10px;
 }
